@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+}
+body{
+    font-family: arial;
+    font-size: 14px;
+}
+#caja{
+    width: 605px;
+    height: 205px;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+ 
+}
+.caja1{
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ff3300;
+    float: left;
+}    
+
+.cajita{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.boton{
+    width: 150px;
+    height: 50px;
+    background: #999999;
+     border-radius: 5px;
+     margin: 10px;
+}
